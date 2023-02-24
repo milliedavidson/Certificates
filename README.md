@@ -1,3 +1,5 @@
 # **Certificates 📚 📑**
 
-A place for certificates/qualifications - mostly using this to link to my LinkedIn.
+A place for my certificates/qualifications - adding to this gradually to link to my [LinkedIn](https://www.linkedin.com/in/milliedavidson/).
+
+Click on the files above to see the certificates.

@@ -18,4 +18,5 @@ A place for my certificates/qualifications - gradually adding to this for my [Li
 
 [Web Development - Code First Girls](https://github.com/milliedavidson/Certificates/blob/main/Web%20Development%20-%20Code%20First%20Girls.pdf)
 
-[Certified in Cyber Security - ISC2]()
+[Certified in Cyber Security - ISC2](https://github.com/milliedavidson/Certificates/blob/main/Certified%20in%20Cyber%20Security%20-%20ISC2.jpg)
+
